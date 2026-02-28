@@ -12,10 +12,8 @@ and comparing the latter two with projected wholesale electricity prices.
 Context
     This script was developed within an independent analytical project on the
     economics of the proposed second unit at Krško (JEK2). The modelling code
-    is shown as implemented in practice. The purpose of sharing it is to show 
-    my ability to design and execute complex, data-driven economic simulations
-    using stochastic methods (Monte Carlo).
-
+    is shown as implemented in practice.
+    
 Methodological overview
     The model constructs a complete techno-economic representation of a nuclear
     investment, including:
@@ -2205,4 +2203,5 @@ for key, values in data_dict.items():
         plt.show()
 
 #zapri vse, da lahko sploh druge zaštartaš
+
 #plt.close('all')
