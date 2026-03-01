@@ -7,7 +7,9 @@ The model includes detailed cost structures, financing architecture, FCFF calcul
 
 ## Repository Contents
 `jek2_monte_carlo.py` Main Python simulation script (Monte Carlo, NPV, LCOE, FCFF)
+
 `jek2_input_data.xlsx` Input parameters and scenario assumptions
+
 `Ekonomska_studija_JEK2_MZPP_junij_2025.pdf` Full techno-economic study (MZPP, 2025)
 
 ## Requirements
