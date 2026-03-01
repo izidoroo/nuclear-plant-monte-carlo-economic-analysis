@@ -6,11 +6,11 @@ The script computes NPV, LCOE, and the breakeven electricity price (NPV = 0), an
 The model includes detailed cost structures, financing architecture, FCFF calculations, and shutdown risk modelling.
 
 ## Repository Contents
-`jek2_monte_carlo.py` Main Python simulation script (Monte Carlo, NPV, LCOE, FCFF)
+`src/jek2_monte_carlo.py` Main Python simulation script (Monte Carlo, NPV, LCOE, FCFF)
 
-`jek2_input_data.xlsx` Input parameters and scenario assumptions
+`data/jek2_input_data.xlsx` Input parameters and scenario assumptions
 
-`Ekonomska_studija_JEK2_MZPP_junij_2025.pdf` Full techno-economic study (MZPP, 2025)
+`docs/Economic_study_JEK2_MZPP_2025.pdf` Full techno-economic study (MZPP, 2025)
 
 ## Requirements
 
