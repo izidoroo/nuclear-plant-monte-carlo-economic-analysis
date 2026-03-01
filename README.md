@@ -15,4 +15,4 @@ The model includes detailed cost structures, financing architecture, FCFF calcul
 ## Requirements
 
 ```bash
-pip install numpy pandas matplotlib scipy openpyxl xlwings
+pip install numpy pandas matplotlib scipy xlwings
