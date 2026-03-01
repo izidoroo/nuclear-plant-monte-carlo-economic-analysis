@@ -1,4 +1,4 @@
-# nuclear-plant-monte-carlo-economic-analysis
+# JEK2 Nuclear Power Plant – Monte Carlo Economic Analysis
 Stochastic Monte Carlo model for the economic assessment of the proposed second unit of the Krško nuclear power plant (JEK2) in Slovenia.
 
 A full techno-economic simulation model for the proposed second unit of the Krško nuclear power plant (JEK2).
