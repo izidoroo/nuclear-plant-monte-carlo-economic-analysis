@@ -103,7 +103,7 @@ np.random.seed(42)
 
 # %% POVEZAVA Z EXCELOM
 # Definiramo pot do excel dokumenta
-file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "C:\\workspace\\JEK2 - python koda\\Final price of JEK2 - monte carlo simulation - github.xlsx")
+file_path = "jek2_input_data.xlsx"
 
 
 wb = xw.Book(file_path)
@@ -2243,4 +2243,5 @@ for key, values in data_dict.items():
         plt.tight_layout()
 
 # prikaže vse grafike skupaj
+
 plt.show()
